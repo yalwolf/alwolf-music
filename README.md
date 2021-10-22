@@ -24,8 +24,9 @@
 [📦 获取稳定版](https://github.com/maicong/music/releases)
 
 <p>##二改版本</p>
-[📦 获取稳定版](https://github.com/yalwolf/alwolf-music/tree/main/alwolf-music)
-[📦 下载开发版](https://github.com/yalwolf/alwolf-music/blob/main/alwolf-music.zip)
+
+<p>[📦 下载开发版](https://github.com/yalwolf/alwolf-music/blob/main/alwolf-music.zip)</p>
+<p>[📦 获取稳定版](https://github.com/yalwolf/alwolf-music/tree/main/alwolf-music)</p>
 
 ## 解决方案
 
