@@ -25,8 +25,8 @@
 
 <p>##二改版本</p>
 
-<p>[📦 下载开发版](https://github.com/yalwolf/alwolf-music/blob/main/alwolf-music.zip)</p>
-<p>[📦 获取稳定版](https://github.com/yalwolf/alwolf-music/tree/main/alwolf-music)</p>
+[📦 下载开发版](https://github.com/yalwolf/alwolf-music/blob/main/alwolf-music.zip)
+[📦 获取稳定版](https://github.com/yalwolf/alwolf-music/tree/main/alwolf-music)
 
 ## 解决方案
 
