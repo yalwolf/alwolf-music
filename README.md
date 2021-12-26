@@ -16,7 +16,7 @@
 
 ## 演示
 
-[https://music.alwolf.cn/](https://music.alwolf.cn/ "音乐搜索器")
+[https://music.alwolf.cn/](https://music.alwolf.cn/ "音乐搜索器")(已停用)
 
 ## 下载
 ##官方版本
